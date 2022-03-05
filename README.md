@@ -1,4 +1,4 @@
-# Massive DHCP reservetion add/modify script
+# Massive DHCP reservetion script for pfSense
 A custom PHP script for massive add/updates of DHCP reservation entries in pfSense
 
 ## Introduction
